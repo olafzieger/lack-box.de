@@ -1,1 +1,1 @@
-Wir sind umgezogen und sitzen ab sofort in der <br><br>Themsestr. 2b<br>DE-13349 Berlin<br><br>030/39888630<br>info@lack-box.de<br><br>
+Wir sind umgezogen und sitzen ab sofort in der <br><br>Themsestraﬂe 2b<br>DE-13349 Berlin<br><br>030/39888630<br>info@lack-box.de<br><br>
