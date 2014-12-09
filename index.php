@@ -301,7 +301,7 @@ else if($kat == "transfer")
         move_uploaded_file($_FILES['img']['tmp_name'], $DIR.'/img.jpg');
         echo "<img src='".$DIR."/img.jpg' />";
         }
-        else echo "Das Bild darf nicht grï¿½ï¿½er als 100 kb sein ";
+        else echo "Das Bild darf nicht größer als 100 kb sein ";
     }
     else   echo "Bitte nur Bilder im jpg Format hochladen";
     // IMG2
@@ -316,7 +316,7 @@ else if($kat == "transfer")
         move_uploaded_file($_FILES['img2']['tmp_name'], $DIR.'/img2.jpg');
         echo "<img src='".$DIR."/img2.jpg' />";
         }
-        else echo "Das Bild darf nicht grï¿½ï¿½er als 100 kb sein ";
+        else echo "Das Bild darf nicht größer als 100 kb sein ";
     }
     else   echo "Bitte nur Bilder im jpg Format hochladen";
     // IMG
@@ -331,7 +331,7 @@ else if($kat == "transfer")
         move_uploaded_file($_FILES['img3']['tmp_name'], $DIR.'/img3.jpg');
         echo "<img src='".$DIR."/img3.jpg' />";
         }
-        else echo "Das Bild darf nicht grï¿½ï¿½er als 100 kb sein ";
+        else echo "Das Bild darf nicht größerer als 100 kb sein ";
     }
     else   echo "Bitte nur Bilder im jpg Format hochladen";
     // IMG
@@ -347,7 +347,7 @@ else if($kat == "transfer")
         echo "<img src='".$DIR."/img4.jpg' />";
         
         }
-        else echo "Das Bild darf nicht grï¿½ï¿½er als 100 kb sein ";
+        else echo "Das Bild darf nicht größer als 100 kb sein ";
     }
     else   echo "Bitte nur Bilder im jpg Format hochladen";
     
